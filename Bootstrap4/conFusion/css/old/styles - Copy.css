@@ -52,15 +52,3 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
-
-.modal {
-  text-align: left;
-  font-size: 20px; }
-  .modal .modal-header {
-    background: #512DA8;
-    color: #fffaf0;
-    font-size: 24px; }
-    .modal .modal-header .close {
-      color: #fffaf0; }
-  .modal .modal-body {
-    background: #D1C4E9; }
